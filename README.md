@@ -1,2 +1,6 @@
 # Onion Architecture
-Recently
+Onion Architecture
+MediatR 
+.Net 6
+Decouple
+
