@@ -628,11 +628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\Github\\OnionArch\\Application\\Application.csproj",
+      "projectUniqueName": "E:\\Projects\\Github\\OnionArchitecture\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "E:\\Projects\\Github\\OnionArch\\Application\\Application.csproj",
+      "projectPath": "E:\\Projects\\Github\\OnionArchitecture\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\alireza\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\Github\\OnionArch\\Application\\obj\\",
+      "outputPath": "E:\\Projects\\Github\\OnionArchitecture\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -652,8 +652,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Projects\\Github\\OnionArch\\Domain\\Domain.csproj": {
-              "projectPath": "E:\\Projects\\Github\\OnionArch\\Domain\\Domain.csproj"
+            "E:\\Projects\\Github\\OnionArchitecture\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\Projects\\Github\\OnionArchitecture\\Domain\\Domain.csproj"
             }
           }
         }

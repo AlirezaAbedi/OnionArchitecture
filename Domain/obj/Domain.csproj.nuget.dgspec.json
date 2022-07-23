@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Github\\OnionArch\\Domain\\Domain.csproj": {}
+    "E:\\Projects\\Github\\OnionArchitecture\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Github\\OnionArch\\Domain\\Domain.csproj": {
+    "E:\\Projects\\Github\\OnionArchitecture\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Github\\OnionArch\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\Projects\\Github\\OnionArchitecture\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\Projects\\Github\\OnionArch\\Domain\\Domain.csproj",
+        "projectPath": "E:\\Projects\\Github\\OnionArchitecture\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\alireza\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Github\\OnionArch\\Domain\\obj\\",
+        "outputPath": "E:\\Projects\\Github\\OnionArchitecture\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

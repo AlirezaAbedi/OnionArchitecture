@@ -1984,11 +1984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\Github\\OnionArch\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "E:\\Projects\\Github\\OnionArchitecture\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "E:\\Projects\\Github\\OnionArch\\Persistence\\Persistence.csproj",
+      "projectPath": "E:\\Projects\\Github\\OnionArchitecture\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\alireza\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\Github\\OnionArch\\Persistence\\obj\\",
+      "outputPath": "E:\\Projects\\Github\\OnionArchitecture\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2008,8 +2008,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Projects\\Github\\OnionArch\\Application\\Application.csproj": {
-              "projectPath": "E:\\Projects\\Github\\OnionArch\\Application\\Application.csproj"
+            "E:\\Projects\\Github\\OnionArchitecture\\Application\\Application.csproj": {
+              "projectPath": "E:\\Projects\\Github\\OnionArchitecture\\Application\\Application.csproj"
             }
           }
         }

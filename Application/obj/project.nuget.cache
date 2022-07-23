@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jNw8KKKt03t82MPlMUgN9XDK7dlFifIShGT6MDp89kE/7CNMbL7epo8fIG1RcopRbcwgq9YhxKufarcY9uAiAg==",
+  "dgSpecHash": "DCl1tMfL/QlSGai+gyJ0ekEmTtJAHeMr0yeO46yc+ZL8zurLCIeyURmnqVRtXXFOtkIXrZdmFbhEY7E9k5KJ7A==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\Github\\OnionArch\\Application\\Application.csproj",
+  "projectFilePath": "E:\\Projects\\Github\\OnionArchitecture\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alireza\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\alireza\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

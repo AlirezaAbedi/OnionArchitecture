@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZD1GVzcQbu/xT/z97tQ4YbgYaBhwK6lXbCnmgfGUxunp3VBKkIGphw22zth1G4NdBiIWJ+nWKtl1zsrhE5TNcg==",
+  "dgSpecHash": "lD8+A9MZrjM/1Pp2z5jvMoAy6Ng1hB9eZx6g7CjnRriLSdIABljLO46lHPyhCpLWgTEuZpp1R/u1MRyM4QzSlw==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\Github\\OnionArch\\WebApi\\WebApi.csproj",
+  "projectFilePath": "E:\\Projects\\Github\\OnionArchitecture\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alireza\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\alireza\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

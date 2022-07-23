@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vcg+HIxEPqZt/KB9S6N4FQPc8DdjJfns8Cjtnnui0Pr2tzy74CaaAAah5/c/k1+41StIaHyw+LnqYIujws4RxQ==",
+  "dgSpecHash": "rOzMlun8VjDdHy78UmTF5m61LB2noSpSa0VkoMbHVHEgsjsz8ZjtXThhdAgFmPIsdxVn0Rd5GuCTZ+VvPQB/og==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\Github\\OnionArch\\Persistence\\Persistence.csproj",
+  "projectFilePath": "E:\\Projects\\Github\\OnionArchitecture\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alireza\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\alireza\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

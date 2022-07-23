@@ -2232,11 +2232,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\Github\\OnionArch\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "E:\\Projects\\Github\\OnionArchitecture\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "E:\\Projects\\Github\\OnionArch\\WebApi\\WebApi.csproj",
+      "projectPath": "E:\\Projects\\Github\\OnionArchitecture\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\alireza\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\Github\\OnionArch\\WebApi\\obj\\",
+      "outputPath": "E:\\Projects\\Github\\OnionArchitecture\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2256,11 +2256,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Projects\\Github\\OnionArch\\Application\\Application.csproj": {
-              "projectPath": "E:\\Projects\\Github\\OnionArch\\Application\\Application.csproj"
+            "E:\\Projects\\Github\\OnionArchitecture\\Application\\Application.csproj": {
+              "projectPath": "E:\\Projects\\Github\\OnionArchitecture\\Application\\Application.csproj"
             },
-            "E:\\Projects\\Github\\OnionArch\\Persistence\\Persistence.csproj": {
-              "projectPath": "E:\\Projects\\Github\\OnionArch\\Persistence\\Persistence.csproj"
+            "E:\\Projects\\Github\\OnionArchitecture\\Persistence\\Persistence.csproj": {
+              "projectPath": "E:\\Projects\\Github\\OnionArchitecture\\Persistence\\Persistence.csproj"
             }
           }
         }
